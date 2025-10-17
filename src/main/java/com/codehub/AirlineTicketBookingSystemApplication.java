@@ -1,4 +1,4 @@
-package com.codehub.airline_ticket_booking_system;
+package com.codehub;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

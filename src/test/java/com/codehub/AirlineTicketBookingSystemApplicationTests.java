@@ -1,4 +1,4 @@
-package com.codehub.airline_ticket_booking_system;
+package com.codehub;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
